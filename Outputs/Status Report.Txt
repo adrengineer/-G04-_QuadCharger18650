@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QuadCharger18650.PrjPcb]
+   Generated File[QuadCharger18650-RoundHoles.TXT]
+   Generated File[QuadCharger18650-SlotHoles.TXT]
+   Generated File[QuadCharger18650.LDP]
+   Generated File[QuadCharger18650.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:21:42 On 05/03/2022

@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: QuadCharger18650.CSPcbDoc   05/03/2022  16:21:42
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QuadCharger18650-RoundHoles.TXT
+ASCII SlotHoles File : QuadCharger18650-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        Slot           3                7306.88 mm (287.67 Inch)
+T2        1mm (39.37mil)           Round          24               232.00 mm (9.13 Inch)
+T3        1.02mm (40.157mil)       Round          16               73.84 mm (2.91 Inch)
+T4        2mm (78.74mil)           Round          8                233.94 mm (9.21 Inch)
+T5        3mm (118.11mil)          Round          4                276.00 mm (10.87 Inch)
+T6        3.1mm (122.047mil)       Round          2                60.00 mm (2.36 Inch)
+---------------------------------------------------------------------------
+Totals                                            57               8182.66 mm (322.15 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

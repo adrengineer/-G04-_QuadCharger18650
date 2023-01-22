@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\QuadCharger18650\QuadCharger18650.CSPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=quadcharger18650-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=quadcharger18650-slotholes.txt|LayerPairs=gtl,gbl
